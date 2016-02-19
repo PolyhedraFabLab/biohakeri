@@ -1,2 +1,2 @@
 # biohakeri
-BioHack Academy
+Welcome to our central repository for BioHack Academy Serbia
